@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian Nader </h1>
+<h1 align="center">Hi, I am Christian Nader </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cleitus&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Lives-Paris-success" />
@@ -68,7 +68,7 @@
 
  
 <p align="left">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Git Profile Trophies...</i></b></p>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Github Trophies lol</i></b></p>
 <img src="https://github-profile-trophy.vercel.app/?username=cleitus&theme=juicyfresh&no-bg=true" />
   </div>
 <hr>
@@ -76,11 +76,11 @@
 
 <div>
   <p align="left">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Streak Statistics...</i></b></p>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Streak Statistics</i></b></p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleitus&theme=dark&hide_border=true"/>
   </p>
 </div>
 <hr>
-<p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Statistics Graph...</i></b></p>
+<p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Statistics Graph</i></b></p>
 
   <img alt="Ananya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cleitus&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
