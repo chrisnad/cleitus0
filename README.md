@@ -1,19 +1,28 @@
-### Hi there 👋
 
-<!--
-**cleitus/cleitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+   <img src="https://image.freepik.com/free-psd/3d-female-character-working-desk-with-laptop_23-2148938896.jpg"  height="250"/></p>
+<br>
 
-Here are some ideas to get you started:
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=cleitus&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Lives-Paris-success" />
+  <img src="https://img.shields.io/badge/Languages-English,French%20%26%20Arabic-brightgreen" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian Nader </h1>
+<h3 align="center">Engineer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/christian-nader/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="cleitus" height="30" width="40" /></a>  
+ <a href = "mailto: christiannader@hotmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+</p>
+
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
+ <hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
