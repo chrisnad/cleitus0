@@ -18,7 +18,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools...***
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
@@ -78,7 +77,7 @@
 <div>
   <p align="left">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Streak Statistics...</i></b></p>
-    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitus&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleitus&theme=dark&hide_border=true"/>
   </p>
 </div>
 <hr>
