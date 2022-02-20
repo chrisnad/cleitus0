@@ -83,10 +83,10 @@ Here are some ideas to get you started:
 <div>
   <p align="left">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Streak Statistics...</i></b></p>
-    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
+    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cleitus&theme=dark&hide_border=true"/>
   </p>
 </div>
 <hr>
 <p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Statistics Graph...</i></b></p>
 
-  <img alt="Ananya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ananya26-vishnoi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Ananya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cleitus&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
