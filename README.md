@@ -16,3 +16,19 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cleitus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Git Profile Trophies...</i></b></p>
+<img src="https://github-profile-trophy.vercel.app/?username=ananya26-vishnoi&theme=juicyfresh&no-bg=true" />
+  </div>
+<hr>
+
+
+<div>
+  <p align="left">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Streak Statistics...</i></b></p>
+    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
+  </p>
+</div>
+<hr>
+<p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Statistics Graph...</i></b></p>
