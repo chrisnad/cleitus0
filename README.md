@@ -1,18 +1,9 @@
-
-  <p align="center">
-   <img src="https://image.freepik.com/free-psd/3d-female-character-working-desk-with-laptop_23-2148938896.jpg"  height="250"/></p>
-<br>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=cleitus&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian Nader </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cleitus&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Lives-Paris-success" />
   <img src="https://img.shields.io/badge/Languages-English,French%20%26%20Arabic-brightgreen" />
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Christian Nader </h1>
-<h3 align="center">Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/christian-nader/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="cleitus" height="30" width="40" /></a>  
  <a href = "mailto: christiannader@hotmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
@@ -24,10 +15,8 @@
  
  <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools...***
 <p align="left">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> </code>
@@ -35,13 +24,10 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"> </code>
   </P>
   <hr>
   
-   <p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Web Browsers I have worked with:...</i></b></p>
+   <p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Web Browsers</i></b></p>
   <p align="left">
 <img align="left" alt="Google chrome" width="100px" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 <img align="left" alt="Microsoft Edge" width="100px" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
